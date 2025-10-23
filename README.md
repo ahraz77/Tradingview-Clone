@@ -1,4 +1,4 @@
-# AhrazTrade - Professional Trading Platform# AhrazTrade - Professional Trading Platform# AhrazTrade - Professional Trading Platform
+# AhrazTrade - Professional Trading Platform# AhrazTrade - Professional Trading Platform# AhrazTrade - Professional Trading Platform# AhrazTrade - Professional Trading Platform
 
 
 
@@ -12,13 +12,13 @@ A modern, real-time trading platform powered by **Upstox API v2** with live WebS
 
 ### Main Trading Interface
 
-![Trading Dashboard](src/assets/images/S1.png)
+![Trading Dashboard](S1.png)
 
-## 📸 ScreenshotsA modern, real-time trading platform powered by **Upstox API v2** with live WebSocket market data streaming.This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📸 ScreenshotsA modern, real-time trading platform powered by **Upstox API v2** with live WebSocket market data streaming.
 
 ### Live Market Data
 
-![Live Market Data](src/assets/images/S2.png)
+![Live Market Data](S2.png)
 
 
 
@@ -30,7 +30,7 @@ A modern, real-time trading platform powered by **Upstox API v2** with live WebS
 
 ✅ **Interactive Charts** - Candlestick charts with multiple timeframes  
 
-✅ **210+ Indian Stocks** - Comprehensive coverage across all sectors  ## 🚀 FeaturesCurrently, two official plugins are available:
+✅ **210+ Indian Stocks** - Comprehensive coverage across all sectors  ## 📸 ScreenshotsA modern, real-time trading platform powered by **Upstox API v2** with live WebSocket market data streaming.This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 ✅ **Order Book** - Live bid/ask prices  
 
@@ -46,7 +46,7 @@ A modern, real-time trading platform powered by **Upstox API v2** with live WebS
 
 ## 🛠️ Tech Stack
 
-## 🚀 Features✅ **Real-time Market Data** - Live price updates via WebSocket  - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+## 🚀 Features### Main Trading Interface
 
 - **React 19** - Modern UI framework
 
@@ -54,7 +54,7 @@ A modern, real-time trading platform powered by **Upstox API v2** with live WebS
 
 - **Tailwind CSS** - Utility-first styling
 
-- **Framer Motion** - Smooth animations✅ **Real-time Market Data** - Live price updates via WebSocket  ✅ **Interactive Charts** - Candlestick charts with multiple timeframes  - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Framer Motion** - Smooth animations✅ **Real-time Market Data** - Live price updates via WebSocket  ![Trading Dashboard](src/assets/images/S1.png)
 
 - **Upstox API v2** - Real-time market data
 
@@ -62,7 +62,7 @@ A modern, real-time trading platform powered by **Upstox API v2** with live WebS
 
 - **Protobuf** - Efficient data serialization
 
-✅ **210+ Indian Stocks** - Comprehensive coverage across all sectors  ✅ **Order Book** - Live bid/ask prices  
+✅ **210+ Indian Stocks** - Comprehensive coverage across all sectors  ## 🚀 FeaturesCurrently, two official plugins are available:
 
 ## 📋 Setup Instructions
 
@@ -70,7 +70,7 @@ A modern, real-time trading platform powered by **Upstox API v2** with live WebS
 
 ### 1. Get Upstox API Credentials
 
-✅ **Portfolio Tracking** - Monitor positions and P&L  ✅ **Portfolio Tracking** - Monitor positions and P&L  ## React Compiler
+✅ **Portfolio Tracking** - Monitor positions and P&L  ### Live Market Data
 
 1. Visit [Upstox Developer Console](https://api.upstox.com/)
 
@@ -78,7 +78,7 @@ A modern, real-time trading platform powered by **Upstox API v2** with live WebS
 
 3. Note down your **API Key** (Client ID) and **API Secret** (Client Secret)
 
-4. Set the **Redirect URI** to: `http://localhost:5173/callback`✅ **Dark Mode** - Beautiful dark/light theme  ✅ **Trade History** - View recent trades  
+4. Set the **Redirect URI** to: `http://localhost:5173/callback`✅ **Dark Mode** - Beautiful dark/light theme  ![Live Market Data](src/assets/images/S2.png)
 
 
 
@@ -86,7 +86,7 @@ A modern, real-time trading platform powered by **Upstox API v2** with live WebS
 
 
 
-Create a `.env` file and add your credentials:✅ **Dark Mode** - Beautiful dark/light theme  The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Create a `.env` file and add your credentials:
 
 ```env
 
@@ -94,7 +94,7 @@ VITE_UPSTOX_API_KEY=your_api_key_here## 🛠️ Tech Stack
 
 VITE_UPSTOX_API_SECRET=your_api_secret_here
 
-VITE_UPSTOX_REDIRECT_URI=http://localhost:5173/callback✅ **Responsive Design** - Works on all screen sizes  
+VITE_UPSTOX_REDIRECT_URI=http://localhost:5173/callback## 🚀 Features✅ **Real-time Market Data** - Live price updates via WebSocket  - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
 
 ```
 
@@ -102,11 +102,121 @@ VITE_UPSTOX_REDIRECT_URI=http://localhost:5173/callback✅ **Responsive Design**
 
 ### 3. Install & Run
 
-- **Vite** - Lightning-fast build tool## Expanding the ESLint configuration
+- **Vite** - Lightning-fast build tool
 
 ```bash
 
 npm install- **Tailwind CSS** - Utility-first styling
+
+npm run dev
+
+```- **Framer Motion** - Smooth animations✅ **Real-time Market Data** - Live price updates via WebSocket  ✅ **Interactive Charts** - Candlestick charts with multiple timeframes  - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+Visit `http://localhost:5173` and click "Login with Upstox"!- **Upstox API v2** - Real-time market data
+
+
+
+## 📊 Supported Stocks- **WebSocket** - Live data streaming✅ **Interactive Charts** - Candlestick charts with multiple timeframes  
+
+
+
+The platform includes **210+ Indian stocks** across all major sectors:- **Protobuf** - Efficient data serialization
+
+- Banking & Financial Services (25 stocks)
+
+- IT & Technology (20 stocks)✅ **210+ Indian Stocks** - Comprehensive coverage across all sectors  ✅ **Order Book** - Live bid/ask prices  
+
+- Automobiles (20 stocks)
+
+- Pharmaceuticals (20 stocks)## 📋 Setup Instructions
+
+- FMCG (19 stocks)
+
+- Metals & Mining (15 stocks)✅ **Order Book** - Live bid/ask prices  
+
+- Energy & Power (15 stocks)
+
+- Telecom (10 stocks)### 1. Get Upstox API Credentials
+
+- Real Estate (10 stocks)
+
+- And many more...✅ **Portfolio Tracking** - Monitor positions and P&L  ✅ **Portfolio Tracking** - Monitor positions and P&L  ## React Compiler
+
+
+
+## 🔧 Development1. Visit [Upstox Developer Console](https://api.upstox.com/)
+
+
+
+```bash2. Create a new app✅ **Trade History** - View recent trades  
+
+# Install dependencies
+
+npm install3. Note down your **API Key** (Client ID) and **API Secret** (Client Secret)
+
+
+
+# Start development server4. Set the **Redirect URI** to: `http://localhost:5173/callback`✅ **Dark Mode** - Beautiful dark/light theme  ✅ **Trade History** - View recent trades  
+
+npm run dev
+
+
+
+# Build for production
+
+npm run build### 2. Configure Environment Variables✅ **Responsive Design** - Works on all screen sizes  
+
+
+
+# Preview production build
+
+npm run preview
+
+```Create a `.env` file and add your credentials:✅ **Dark Mode** - Beautiful dark/light theme  The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+
+
+
+## 📖 Documentation```env
+
+
+
+For detailed documentation, see:VITE_UPSTOX_API_KEY=your_api_key_here## 🛠️ Tech Stack
+
+- `SETUP.md` - Detailed setup guide
+
+- `CREDENTIALS.md` - API credentials informationVITE_UPSTOX_API_SECRET=your_api_secret_here
+
+- Code comments throughout the project
+
+VITE_UPSTOX_REDIRECT_URI=http://localhost:5173/callback✅ **Responsive Design** - Works on all screen sizes  
+
+## 🤝 Contributing
+
+```
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+- **React 19** - Modern UI framework
+
+## 📄 License
+
+### 3. Install & Run
+
+This project is open source and available under the MIT License.
+
+- **Vite** - Lightning-fast build tool## Expanding the ESLint configuration
+
+---
+
+```bash
+
+**Happy Trading!** 📈
+
+npm install- **Tailwind CSS** - Utility-first styling
+
+Built with ❤️ by [Ahraz](https://github.com/ahraz77)
 
 npm run dev
 
